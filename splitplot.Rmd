@@ -3,10 +3,10 @@ title: "A Factorial Split Plot Design using Oats"
 author: "Kar Ng"
 date: "2021"
 output: 
-    github_document:
-      toc: true
-      toc_depth: 3
-always_allow_html: true
+  github_document:
+    toc: true
+    toc_depth: 3
+always_allow_html: yes
   
 ---
 
