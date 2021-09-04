@@ -5,7 +5,7 @@ date: "2021"
 output: 
   github_document:
     toc: true
-    toc_depth: 3
+    toc_depth: 2
 always_allow_html: yes
   
 ---

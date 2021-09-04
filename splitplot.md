@@ -8,24 +8,11 @@ Kar Ng
 -   [3 INTRODUCTION](#3-introduction)
 -   [3 EXPERIMENTAL DESIGN SUMMARY](#3-experimental-design-summary)
 -   [4 DATA PREPARATION](#4-data-preparation)
-    -   [4.1 Data import](#41-data-import)
-    -   [4.2 Data description](#42-data-description)
-    -   [4.3 Data exploration](#43-data-exploration)
 -   [5 DATA CLEANING AND
     MANIPULATION](#5-data-cleaning-and-manipulation)
 -   [6 EXPLORATORY DATA ANALYSIS
     (EDA)](#6-exploratory-data-analysis-eda)
-    -   [6.1 Yield vs Variety](#61-yield-vs-variety)
-    -   [6.2 Yield vs Nutrient Levels](#62-yield-vs-nutrient-levels)
-    -   [6.3 Yield vs Blocks](#63-yield-vs-blocks)
-    -   [6.4 Yield vs Variety +
-        Nutrient](#64-yield-vs-variety--nutrient)
-    -   [6.5 Yield vs Variety + Nutrient +
-        Block](#65-yield-vs-variety--nutrient--block)
 -   [7 STATISTICAL ANALYSIS](#7-statistical-analysis)
-    -   [7.1 Assumption tests](#71-assumption-tests)
-    -   [7.2 Omnibus test](#72-omnibus-test)
-    -   [7.3 Post-Hoc analysis](#73-post-hoc-analysis)
 -   [8 CONCLUSION](#8-conclusion)
 -   [9 LEGALITY](#9-legality)
 -   [10 REFERENCE](#10-reference)
