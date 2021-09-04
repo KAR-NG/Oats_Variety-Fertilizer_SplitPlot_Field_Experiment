@@ -116,7 +116,7 @@ generating unfairn data.
 <br/>
 
 <center>
-![](https://github.com/KAR-NG/oat/blob/main/pic4_rand.JPG)
+![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic4_rand.JPG)
 
 <br/>
 
