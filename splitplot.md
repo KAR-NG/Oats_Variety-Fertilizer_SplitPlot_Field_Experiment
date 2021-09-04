@@ -48,7 +48,7 @@ surrounding environment.
 
 <br/> *Highlights*
 
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210707_p6_Split%20Plot\splitplot\pic1_combined.png)
+![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic1_combined.png)
 
 ## 2 R PACKAGES
 
