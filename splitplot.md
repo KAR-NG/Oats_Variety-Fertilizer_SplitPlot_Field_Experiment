@@ -1,8 +1,7 @@
 A Factorial Split Plot Design using Oats
 ================
 Kar Ng
-7/9/2021
-
+2021
 ------------------------------------------------------------------------
 
 ![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic2_thumbnail.png)
@@ -103,7 +102,7 @@ heterogeneous environment.
 
 <br/>
 
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210612_p4_RCBD\pic1_design.JPG)
+![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic3_design.JPG)
 
 <br/>
 
@@ -117,8 +116,7 @@ generating unfairn data.
 <br/>
 
 <center>
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210612_p4_RCBD\pic2_rand.JPG)
-</center>
+![](https://github.com/KAR-NG/oat/blob/main/pic4_rand.JPG)
 
 <br/>
 
