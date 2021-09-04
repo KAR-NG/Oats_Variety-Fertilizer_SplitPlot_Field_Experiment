@@ -19,7 +19,7 @@ Kar Ng
 
 ------------------------------------------------------------------------
 
-![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic2_thumbnail.png)
+![]()
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ surrounding environment.
 
 <br/> *Highlights*
 
-![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic1_combined.png)
+![]()
 
 ## 2 R PACKAGES
 
@@ -117,7 +117,7 @@ heterogeneous environment.
 
 <br/>
 
-![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic3_design.JPG)
+![]()
 
 <br/>
 
@@ -132,7 +132,7 @@ generating unfairn data.
 
 <center>
 
-![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic4_rand.JPG)
+![]()
 
 </center>
 

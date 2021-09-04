@@ -12,7 +12,7 @@ always_allow_html: yes
 
 ***
 
-![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic2_thumbnail.png)
+![]()
 
 ***
 
@@ -36,7 +36,7 @@ Results reveal that there is no significant yield difference among oat varieties
 <br/>
 *Highlights*
 
-![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic1_combined.png)
+![]()
 
 
 
@@ -85,7 +85,7 @@ A sketch to visualise the arrangement of blocks. The arrangement of each block i
 
 <br/>
 
-![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic3_design.JPG)
+![]()
 
 <br/>
 
@@ -95,7 +95,7 @@ I am expecting all treatments were randomised within plot. It is a usual way to 
 
 <center>
 
-![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic4_rand.JPG)
+![]()
 
 </center>
 
