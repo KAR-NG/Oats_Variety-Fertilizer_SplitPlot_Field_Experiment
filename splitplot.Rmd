@@ -4,13 +4,15 @@ author: "Kar Ng"
 date: "2021"
 output: 
     github_document:
+      toc: true
+      toc_depth: 3
 always_allow_html: true
   
 ---
 
 ***
 
-![](C:\Users\karho\Desktop\R and Stats\R for online presence\20210707_p6_Split Plot\splitplot\pic2_thumbnail.png)
+![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic2_thumbnail.png)
 
 ***
 
@@ -34,7 +36,7 @@ Results reveal that there is no significant yield difference among oat varieties
 <br/>
 *Highlights*
 
-![](C:\Users\karho\Desktop\R and Stats\R for online presence\20210707_p6_Split Plot\splitplot\pic1_combined.png)
+![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic1_combined.png)
 
 
 
@@ -83,7 +85,7 @@ A sketch to visualise the arrangement of blocks. The arrangement of each block i
 
 <br/>
 
-![](C:\Users\karho\Desktop\R and Stats\R for online presence\20210612_p4_RCBD\pic1_design.JPG)
+![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic3_design.JPG)
 
 <br/>
 
@@ -92,7 +94,9 @@ I am expecting all treatments were randomised within plot. It is a usual way to 
 <br/>
 
 <center>
-![](C:\Users\karho\Desktop\R and Stats\R for online presence\20210612_p4_RCBD\pic2_rand.JPG)
+
+![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic4_rand.JPG)
+
 </center>
 
 <br/>
