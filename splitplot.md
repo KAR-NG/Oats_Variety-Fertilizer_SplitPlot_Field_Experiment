@@ -5,7 +5,7 @@ Kar Ng
 
 ------------------------------------------------------------------------
 
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210707_p6_Split%20Plot\splitplot\pic2_thumbnail.png)
+![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic2_thumbnail.png)
 
 ------------------------------------------------------------------------
 
