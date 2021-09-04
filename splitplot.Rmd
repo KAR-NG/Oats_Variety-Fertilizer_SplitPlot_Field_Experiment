@@ -2,7 +2,7 @@
 title: "A Factorial Split Plot Design using Oats"
 author: "Kar Ng"
 date: "7/9/2021"
-output: rmarkdown::github_document 
+output: github_document 
   
 ---
 
@@ -57,6 +57,8 @@ library(lmerTest)
 library(qqplotr)
 library(lsmeans)
 library(multcomp)
+library(pbkrtest)
+library(multcompView)   # To use CLD methods
 
 
 ```
