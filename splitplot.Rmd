@@ -1,7 +1,7 @@
 ---
 title: "A Factorial Split Plot Design using Oats"
 author: "Kar Ng"
-date: "7/9/2021"
+date: "2021"
 output: 
     github_document:
 always_allow_html: true
