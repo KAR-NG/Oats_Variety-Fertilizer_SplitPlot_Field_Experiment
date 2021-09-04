@@ -1,11 +1,38 @@
 A Factorial Split Plot Design using Oats
 ================
 Kar Ng
-7/9/2021
+2021
+
+-   [1 SUMMARY](#1-summary)
+-   [2 R PACKAGES](#2-r-packages)
+-   [3 INTRODUCTION](#3-introduction)
+-   [3 EXPERIMENTAL DESIGN SUMMARY](#3-experimental-design-summary)
+-   [4 DATA PREPARATION](#4-data-preparation)
+    -   [4.1 Data import](#41-data-import)
+    -   [4.2 Data description](#42-data-description)
+    -   [4.3 Data exploration](#43-data-exploration)
+-   [5 DATA CLEANING AND
+    MANIPULATION](#5-data-cleaning-and-manipulation)
+-   [6 EXPLORATORY DATA ANALYSIS
+    (EDA)](#6-exploratory-data-analysis-eda)
+    -   [6.1 Yield vs Variety](#61-yield-vs-variety)
+    -   [6.2 Yield vs Nutrient Levels](#62-yield-vs-nutrient-levels)
+    -   [6.3 Yield vs Blocks](#63-yield-vs-blocks)
+    -   [6.4 Yield vs Variety +
+        Nutrient](#64-yield-vs-variety--nutrient)
+    -   [6.5 Yield vs Variety + Nutrient +
+        Block](#65-yield-vs-variety--nutrient--block)
+-   [7 STATISTICAL ANALYSIS](#7-statistical-analysis)
+    -   [7.1 Assumption tests](#71-assumption-tests)
+    -   [7.2 Omnibus test](#72-omnibus-test)
+    -   [7.3 Post-Hoc analysis](#73-post-hoc-analysis)
+-   [8 CONCLUSION](#8-conclusion)
+-   [9 LEGALITY](#9-legality)
+-   [10 REFERENCE](#10-reference)
 
 ------------------------------------------------------------------------
 
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210707_p6_Split%20Plot\splitplot\pic2_thumbnail.png)
+![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic2_thumbnail.png)
 
 ------------------------------------------------------------------------
 
@@ -48,7 +75,7 @@ surrounding environment.
 
 <br/> *Highlights*
 
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210707_p6_Split%20Plot\splitplot\pic1_combined.png)
+![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic1_combined.png)
 
 ## 2 R PACKAGES
 
@@ -103,7 +130,7 @@ heterogeneous environment.
 
 <br/>
 
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210612_p4_RCBD\pic1_design.JPG)
+![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic3_design.JPG)
 
 <br/>
 
@@ -117,7 +144,9 @@ generating unfairn data.
 <br/>
 
 <center>
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210612_p4_RCBD\pic2_rand.JPG)
+
+![](https://raw.githubusercontent.com/KAR-NG/oat/main/pic4_rand.JPG)
+
 </center>
 
 <br/>
